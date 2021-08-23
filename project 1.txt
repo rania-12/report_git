@@ -1,0 +1,9 @@
+cpu
+RAM
+Memory
+Disk
+OS
+.
+.
+
+.
